@@ -16,6 +16,7 @@
 ### Design & Architecture
 - **[UI/UX Design](./ui-ux-design.md)** - Design systems, colors, typography, spacing
 - **[Modern Design Patterns](./modern-design-patterns.md)** - Contemporary UI patterns inspired by Qatalog, Linear, Vercel
+- **[Dashboard Patterns](./dashboard-patterns.md)** - Advanced dashboard & data visualization UI
 - **[Architecture](./architecture.md)** - Project structure, file organization, patterns
 
 ### Development
